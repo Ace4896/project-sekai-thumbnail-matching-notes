@@ -4,7 +4,7 @@ A test app for matching Project Sekai card thumbnails.
 
 ## Usage
 
-In this folder are various Jupyter notebooks outlining how the 
+In this folder are various Jupyter notebooks outlining some approaches to matching thumbnails against reference images:
 
 - [`feature-matching`](.\feature-matching.ipynb) - Using ORB Features + brute-force matching to match thumbnails
 
