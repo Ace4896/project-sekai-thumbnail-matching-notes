@@ -13,8 +13,8 @@ In this folder are various Jupyter notebooks outlining my attempts at extracting
   - [`thumbnail-extraction`](.\thumbnail-extraction.ipynb)
     - Extracting individual card thumbnails from the character list
 - **Thumbnail Matching**
-  - [`colour-histogram`](.\colour-histogram.ipynb)
-    - This approach involves generating normalised colour histograms and comparing similarity
+  - [`hsv-histogram`](.\hsv-histogram.ipynb)
+    - This approach involves generating normalised colour histograms from HSV channels and comparing similarity
     - This works well after adding a mask (i.e. cropping the thumbnails) to a fixed region
   - [`orb-feature-matching`](.\orb-feature-matching.ipynb)
     - This approach involves computing ORB Features and performing brute-force matching of features
