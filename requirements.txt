@@ -3,5 +3,6 @@ jupyterlab ~= 4.0.1
 matplotlib ~= 3.7.1
 notebook ~= 6.5.4
 numpy ~= 1.24.3
-opencv-python ~= 4.7.0
+opencv-contrib-python ~= 4.8.0
+opencv-python ~= 4.8.0
 Pillow ~= 9.5.0
